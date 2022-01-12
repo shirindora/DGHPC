@@ -1,0 +1,1 @@
+This is the code for the paper "Deep Gated Hebbian Predictive Coding Accounts for Emergence of Complex Neural Response Properties Along the Visual Cortical Hierarchy, Frontiers in Computational Neuroscience, 2021".
